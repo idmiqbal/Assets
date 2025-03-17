@@ -1,0 +1,2 @@
+# Assets
+Static assets collection
